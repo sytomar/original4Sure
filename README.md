@@ -3,7 +3,7 @@
 Project Setup
 This will be the README for your project. For now, follow these instructions to get this project template set up correctly. Then, come back and replace the contents of this README with contents specific to your project.
 
-Requiremnets:
+Requirements:
 	Python 2.7
 
 Instructions:
