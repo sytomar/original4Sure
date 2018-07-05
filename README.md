@@ -34,10 +34,7 @@ pip install -r requirements.txt
 pip install numpy
 
 8) Make a localhost entry in host file:
-
-sudo nano /etc/hosts
-add host: 
-127.0.0.1	localhost
+  sudo nano /etc/hosts, add host entry as: 127.0.0.1 localhost
 
 Project setup is now complete!
 
