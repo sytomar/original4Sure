@@ -49,7 +49,7 @@ In CLI:
 cd /path/to/directory/original4Sure
 sh start_multi.sh n (n is greater than 1 and it should be positive integer only which is number of racer).
 
-This will excecute the all the three processes in the background and get exit. After all the 10 laps output will be stored in "/path/to/directory/original4Sure/multi_racer.csv"(It will overwrite after every fresh excecution) in comma seprated way as per CSV standards in the format [LapNumber,Lap,LapStart,LapEnd,TimeToCompletion,AverageLatencyR1,AverageLatencyR2] and the all the sending and receiving logs between the process is maintained in "/path/to/directory/original4Sure/nohop.out"(It will overwrite after every fresh excecution)
+This will excecute the all the three processes in the background and get exit. After all the 10 laps output will be stored in "/path/to/directory/original4Sure/multi_racer.csv"(It will overwrite after every fresh excecution) in comma seprated way as per CSV standards in the format [LapNumber,Lap,LapStart,LapEnd,TimeToCompletion,AverageLatencyR1,AverageLatencyR2...AverageLatencyRn] and the all the sending and receiving logs between the process is maintained in "/path/to/directory/original4Sure/nohop.out"(It will overwrite after every fresh excecution)
 
 
 
